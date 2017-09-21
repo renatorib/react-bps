@@ -1,6 +1,6 @@
 {
   "name": "react-bps",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Create breakpoints to your component props",
   "author": "Renato Ribeiro (http://github.com/renatorib)",
   "license": "MIT",
