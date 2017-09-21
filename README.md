@@ -8,12 +8,16 @@
 
 :trident: Create breakpoints to your component props
 
+---
+
 **React Bps** – *where bps means **breakpoints*** – is a small and zero-config HOC that enable you to pass breakpoints to your component based on window width size.  
 It uses [react-sizes](http://github.com/renatorib/react-sizes) to automatically track window width for you.
 
 [Play with live examples on CodeSandBox](https://codesandbox.io/s/zk04n4m2jp)
 
-*You can [follow me on twitter](http://twitter.com/renatorib_) to stay connected in the news of react-bps and other projects of mine*
+> *You can [follow me on twitter](http://twitter.com/renatorib_) to stay connected in the news of react-bps and other projects of mine*
+
+---
 
 # How to use
 
