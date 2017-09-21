@@ -88,9 +88,10 @@ const bps = {
 const sliderConfig = {
   arrows: true,
   itemsPerSlide: 1,
+  bps,
 }
 
-<Slider arrows={true} itemsPerSlide={3} bps={bps}>
+<Slider {...sliderConfg}>
   <div>Slide1</div>
   <div>Slide2</div>
   <div>Slide3</div>
